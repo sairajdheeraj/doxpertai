@@ -1,0 +1,28 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment folder
+venv/
+.env
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# FAISS index file
+faiss_index.bin
+
+# Pickle files
+*.pkl
+
+# Streamlit secret file
+.secrets/
+
+# IDE and editor folders (example for VS Code)
+.vscode/
+
+# Other common unwanted files
+*.log
+*.bak
+*.swp
+*.DS_Store
